@@ -1,0 +1,18 @@
+body {
+  padding-right: 40px;
+    background-color: rgb(11, 3, 36);
+  }
+  
+  .row {
+    color: navy;
+    text-align: justify;
+  }
+
+  .text-bg-light {
+    background-color: rgb(88, 56, 218);
+    color: rgb(226, 225, 237);
+  }
+
+  .list-item{
+    background-color: blue;
+  }
